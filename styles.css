@@ -1,0 +1,25 @@
+html {
+    background-color: rgb(51, 51, 54);
+}
+div.header {
+    background-color: black;
+    border-radius: 10px;
+    padding: 0.1%;
+}
+div.header p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+div.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+p#clickMe {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder; 
+}
